@@ -33,3 +33,9 @@ Predicting house sale prices from 79 features, for the Kaggle competition
 ## Tools
 
 Python, pandas, NumPy, scikit-learn, XGBoost, Google Colab.
+
+## Next steps
+
+- Try feature engineering (e.g. total square footage, house age).
+- Try ensembling several models instead of relying on one.
+- Tune XGBoost hyperparameters more carefully.
